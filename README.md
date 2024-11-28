@@ -1,7 +1,4 @@
 # Presentation
-
-This repository contains a presentation with 29 slides. You can view each slide below:
-
 ## Slides
 
 ![Slide 1](presentation/Diapositive1.JPG)
